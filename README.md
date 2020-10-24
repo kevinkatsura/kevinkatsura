@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###  🔭 I’m currently studying at ***Bandung Institute of Technology
+###  🔭 I’m currently studying at *Bandung Institute of Technology
 ###  How to reach me :
 ###  *Linked : (https://www.linkedin.com/in/kevin-katsura-dani-sitanggang-16b17a1b4/)
 ###  *Instagram  : kevin_kdps
