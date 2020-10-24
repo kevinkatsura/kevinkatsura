@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ###  🔭 I’m currently studying at ***Bandung Institute of Technology***
-###  How to reach me :
-###  * Linked : (https://www.linkedin.com/in/kevin-katsura-dani-sitanggang-16b17a1b4/)
-###  * Instagram  : kevin_kdps
-###  * Twitter    : kevin57223037
-###  * Line       : kevin23march
+###  - How to reach me :
+###    - Linked : (https://www.linkedin.com/in/kevin-katsura-dani-sitanggang-16b17a1b4/)
+###    - Instagram  : kevin_kdps
+###    - Twitter    : kevin57223037
+###    - Line       : kevin23march
 <!--
 **kevinkatsura/kevinkatsura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
