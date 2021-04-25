@@ -2,7 +2,7 @@
 
 ###  I’m currently studying at Bandung Institute of Technology
 ###  How to reach me?
-[linkedin](https://www.linkedin.com/in/kevin-katsura-dani-sitanggang-16b17a1b4/)<br>
+> [linkedin](https://www.linkedin.com/in/kevin-katsura-dani-sitanggang-16b17a1b4/)<br>
 [Instagram](https://www.instagram.com/kevin_kdps/)<br>
 [Twitter](https://twitter.com/Kevin57223037)<br>
 [Line](https://line.me/R/ti/p/@kevin23march)
